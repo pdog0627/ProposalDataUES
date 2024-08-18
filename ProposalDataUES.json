@@ -44,7 +44,8 @@
     "Dependency4": "Notice to Proceed",
     "BudgetType4": "Lump Sum"
  },
-    "Aquatic Resources Desktop Screening": {
+  
+  "Aquatic Resources Desktop Screening": {
     "Task1": "Aquatic Resources Desktop Screening",
     "AcTask1": "Aquatic Resources Desktop Screening",
     "RC1": "The United States Army Corps of Engineers (USACE) regulates jurisdictional waters of the United States (WOTUS) under the federal Clean Water Act (CWA), via CWA Section 404 and Section 401 permits. The Nevada Department of Environmental Protection (NDEP) regulates and permits various activities in aquatic resources determined to be Waters of the State (WOTS).",
@@ -97,7 +98,7 @@
     "Cost4": "3,500",
     "ScheduleDays4": "18"
   },
-  
+
   "NDEP Individual Working in Waters": {
     "Task1": "NDEP Individual Working in Waters",
     "AcTask1": "NDEP Individual Working in Waters",
