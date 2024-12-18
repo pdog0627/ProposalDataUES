@@ -1148,8 +1148,8 @@
     "Del1": "<ul><li>Draft written report with maps and table of findings.</li><li>Shape files of all collected data</li><li>Final written report to DTRO incorporating client comments.</li></ul>",
     "Dependency1": "Notice to Proceed",
     "BudgetType1": "Time and Materials",
-    "Cost1": 85,000,
-    "ScheduleDays1": 30
+    "Cost1": "85,000",
+    "ScheduleDays1": "30"
 
     "Predator Surveys": {
     "Task2": "Predator Surveys",
@@ -1161,8 +1161,8 @@
     "Del2": "<ul><li>Draft written report with maps and table of findings.</li><li>Shape files of all collected data</li><li>Final written report to DTRO incorporating client comments.</li></ul>",
     "Dependency2": "Notice to Proceed",
     "BudgetType2": "Time and Materials",
-    "Cost2": 85,000,
-    "ScheduleDays2": 30
+    "Cost2": "85,000",
+    "ScheduleDays2": "30"
 
     "Predator Surveys": {
     "Task3": "Predator Surveys",
@@ -1174,21 +1174,8 @@
     "Del3": "<ul><li>Draft written report with maps and table of findings.</li><li>Shape files of all collected data</li><li>Final written report to DTRO incorporating client comments.</li></ul>",
     "Dependency3": "Notice to Proceed",
     "BudgetType3": "Time and Materials",
-    "Cost3": 85,000,
-    "ScheduleDays3": 30
-
-          "Predator Surveys": {
-    "Task3": "Predator Surveys",
-    "AcTask3": "Predator Surveys",
-    "RC3": "Before a translocation event, the USFWS may require proponents to conduct predator surveys. Survey timing would be discussed with the Desert Tortoise Recovery Office (DTRO) beforehand. Surveys are typically conducted within 60 days or less of proposed release date.",
-    "Des3": "Predator surveys inform on the likelihood of success of a translocation, and may lead to alterations of the final approved translocation plan. Typical mammal species recorded include American badger (Taxidea taxus), coyote (Canis latrans), kit fox (Vulpes macrotis), mountain lion (Puma concolor), and domestic dog (Canis lupus familiaris). Avian species would include common raven (Corvus corax), red-tailed hawk (Buteo jamaicensis), and any other large avian nests within the release site.",
-    "Methods3": "Surveys are conducted at 10-meter-wide belt transects. The survey area must be a minimum of 500 meters larger than the outermost release points within the approved release area. Data to be recorded includes location via Universal Transverse Mercator coordinates, species, and type of sign (burrow/den, foraging dig, scat, and/or nest). Remote camera traps will be utilized at potentially active predator burrows identified during surveys. Recent human-caused disturbances that could threaten tortoises (e.g. OHV tracks, active shooting sites) will also be recorded. All live tortoises and desert tortoise sign will also be recorded using the protocols set forth in the USFWS's Desert Tortoise Field Manual (2009 or most recent). This includes location, sex, size, identifying characteristics, and apparent signs of disease for live animals. Tortoise sign will be classified by category (burrow, scat, tracks, carcass, etc.) and class (Class 1 to Class 5).",
-    "AnL3": "<ul><li>Post survey work will vary based on survey results. Examples include placement and monitoring of game cameras and follow up surveys requested by USFWS/DTRO.</li><li>DTRO requires submittal of findings at least 2 weeks prior to proposed release date to analyze and possibly modify translocation plan.</li><li>Client comments will be editorial in nature and not require further field work.</li></ul>",
-    "Del3": "<ul><li>Draft written report with maps and table of findings.</li><li>Shape files of all collected data</li><li>Final written report to DTRO incorporating client comments.</li></ul>",
-    "Dependency3": "Notice to Proceed",
-    "BudgetType3": "Time and Materials",
-    "Cost3": 85,000,
-    "ScheduleDays3": 30
+    "Cost3": "85,000",
+    "ScheduleDays3": "30"
 
     "Predator Surveys": {
     "Task4": "Predator Surveys",
@@ -1200,7 +1187,7 @@
     "Del4": "<ul><li>Draft written report with maps and table of findings.</li><li>Shape files of all collected data</li><li>Final written report to DTRO incorporating client comments.</li></ul>",
     "Dependency4": "Notice to Proceed",
     "BudgetType4": "Time and Materials",
-    "Cost4": 85,000,
-    "ScheduleDays4": 30
+    "Cost4": "85,000",
+    "ScheduleDays4": "30"
     }
 }
