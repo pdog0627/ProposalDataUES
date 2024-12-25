@@ -51,7 +51,11 @@
     "Agency Coordination": {
     "AgencyCSummary": "<p>As the EA develops, continued coordination with the reviewing agency is to be expected. UES will coordinate with the agency via email, phone calls, and meetings. UES will relay the results of these interactions to the client, and include them on those correspondences and meetings that require the client's attention. In general this coordination will be conducted by the project manager, with relevant staff brought in as needed for streamlined processing by all involved agencies.</p>",
     "AgencyCCost": 7000
-}
+},
+    "SHPO Review": {
+    "SHPOSummary": "<p>As the EA develops, continued coordination with the reviewing agency is to be expected. UES will coordinate with the agency via email, phone calls, and meetings. UES will relay the results of these interactions to the client, and include them on those correspondences and meetings that require the client's attention. In general this coordination will be conducted by the project manager, with relevant staff brought in as needed for streamlined processing by all involved agencies.</p>",
+    "SHPOCost": 0
+},
 
 
 }
