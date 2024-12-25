@@ -38,6 +38,10 @@
       "Class I Inventory (Background Research)": {
     "Class1Summary": "<p>To complete the desktop review, UES cultural resources staff will complete a Class I inventory for the project area. The purpose of a Class I is to synthesize existing information regarding the precontact, historic, ethnohistoric, and recent land use patterns within the project area. To accomplish this task, UES will consult the Nevada Cultural Resources Information System (NVCRIS) database in addition to publicly available historic information. At a minimum, UES will review:</p><ul><li>Previously recorded archaeological site forms</li><li>Previously conducted archaeological and architectural reports</li><li>General Land Office (GLO) Maps</li><li>NRHP and National Historic Landmarks (NHL) listings and nominations</li><li>State Register of Historic Places (SHRP) listings</li><li>NDOT county highway maps</li><li>Historic USGS topographic quadrangle maps</li><li>Historic aerial photographs</li><li>Satellite imagery</li></ul><p>UES will digitize the findings of the background research and prepare up to four (4) project maps, including a project vicinity map, a project location map, and a results map depicting previously identified inventories and cultural resources (sites, structures, and districts).</p><p>UES will then initiate tribal consultation with lead agency approval and coordination and draft initiation letters seeking expertise, feedback, and input from affiliated tribes and tribal stakeholders.</p>",
     "Class1Cost": 3000
+  },
+      "Agency Review": {
+    "AgencyReviewSummary": "<p>Upon completion of the Class III Inventory, UES will prepare a report to the reviewing agency and SHPO that documents the results of the inventory, provides a brief cultural history of the project area, and presents the results of the Class I background search (previous research summary), eligibility recommendations for all newly recorded archaeological sites, and recommendations for future archaeological work, if any.</p>",
+    "AgencyReviewCost": 0
   }
 
 }
