@@ -42,6 +42,12 @@
       "Agency Review": {
     "AgencyReviewSummary": "<p>Upon completion of the Class III Inventory, UES will prepare a report to the reviewing agency and SHPO that documents the results of the inventory, provides a brief cultural history of the project area, and presents the results of the Class I background search (previous research summary), eligibility recommendations for all newly recorded archaeological sites, and recommendations for future archaeological work, if any.</p>",
     "AgencyReviewCost": 0
-  }
+  },
+  
+  "Socioeconomic Study": {
+    "SocioStudySummary": "<p>UES will conduct a Socioeconomic Study. The study will evaluate both direct and indirect social and economic impacts on the local community within the project boundary. Data collection will align with guidelines from applicable state and federal standards.</p><p>Baseline socioeconomic conditions will be established by analyzing demographic data, employment statistics, income levels, and local economic activity. Surveys and stakeholder interviews will be conducted as necessary to gather qualitative insights. Potential impacts, including changes to employment, housing demand, public services, and community cohesion, will be assessed using both quantitative and qualitative methods.</p><p>Mitigation strategies will be proposed for identified adverse impacts, with a focus on enhancing local benefits, such as job creation and community investment. The socioeconomic study will also account for potential benefits like increased tax revenues or improved public services. Deliverables will include a detailed report outlining findings, analyses, and recommendations for minimizing negative impacts and maximizing positive outcomes.</p><p>Based on UES' experience with similar studies in the region, it is expected that impacts will be moderate, with opportunities for targeted mitigation to address community concerns effectively.</p>",
+    "SocioStudyCost": 10000
+}
+
 
 }
