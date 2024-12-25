@@ -19,9 +19,13 @@
     "TrafficSummary": "<p>UES will run a Federal Highway Administration (FHWA) McTrans Impact Model on the project site(s) and provide the Level of Service and Traffic Impact Technical Report to the AGENCY. UES will evaluate the area of significant impact for existing land uses, zoning, anticipated developments, site accessibility, traffic volumes and conditions, transit service, and other relevant conditions. A Traffic Projection and Traffic analysis will be included in the report. Compliance with local codes will be evaluated as well.  The Traffic Baseline Study will include an inventory of existing parking (if any), the perimeter of study area, and spillover. Data collection during field work will include marking routes, landmarks, hydrants, etc., area walks to account for maximum distance, peak demand, duration counts, turnover rates, and occupancy rates. UES will create a report of the analysis of all studies.",
     "TrafficCost": 8000
   },
-      "Noise Study": {
+    "Noise Study": {
     "NoiseSummary": "<p>UES will conduct an ambient noise survey in general accordance with the American National Standards Institute (ANSI) S12.18-1994, Procedures for Outdoor Measurement of Sound Pressure Level.  This will include collection of a 24-hour noise level measurement at the center of the proposed action, one 1-hour “daytime” noise level measurement and one 15-minute “nighttime” measurement at each of the corners of the subject property. This ambient noise survey will determine the baseline noise levels for comparison with the predicted construction and operation action levels.  Both the construction and operation action noise levels will be modeled and calculated in accordance with International Organization for Standardization (ISO) 9613-2, Acoustics – Attenuation of Sound During Propagation Outdoors. Part 2: General Method of Calculation. UES will prepare a baseline and desktop noise analysis to include local zoning and regulatory requirements, such as those of the areas immediately surrounding the selected sites.",
     "NoiseCost": 10000
+  },
+    "Air Quality": {
+    "AirSummary": "<p>After a brief desktop review, air quality experts from UES will visit the site to determine baseline conditions and verify any air quality concerns from adjacent properties. Such concerns will be quantified if possible, or qualitatively described in detail if not. A report will be drafted summarizing baseline air quality conditions, estimated emissions from construction activities, and estimated emissions from the site post-construction. If the project area is within a currently in nonattainment, the report will address the stricter regulatory requirements designed to improve air quality. No sampling will be required for this task.",
+    "AirCost": 10000
   }
 
 }
