@@ -55,7 +55,14 @@
     "SHPO Review": {
     "SHPOSummary": "<p>UES will submit the results of its Class I and Class III studies to the SHPO. Once SHPO has reviewed and responded with comments, UES will incorporate those comments into its cultural resource reports in a final draft.</p>",
     "SHPOCost": 0
+},
+  
+  "Land Use Study": {
+    "LandUseSummary": "<p>UES will conduct a comprehensive Land Use Assessment for the project area. This assessment will adhere to the Bureau of Land Management's (BLM) Assessment, Inventory, and Monitoring (AIM) Strategy, which provides standardized methods for evaluating land conditions and trends.</p><p>UES will conduct a pedestrian survey, using 30 meter interval transects. All data will be collected using digital means, including GPS coordinates, existing land uses, the presence of agricultural activities, residential and commercial use, recreational areas, and natural habitats. Geolocated photographs will also be collected.</p><p>Collected data will be categorized according to standardized land use classifications, facilitating a clear understanding of the area's current utilization. The land use assessment will evaluate how the proposed project may alter existing land uses, considering factors such as changes in land cover, potential displacement of current activities, and compatibility with surrounding land uses.</p><p>The study will ensure that the proposed project aligns with local zoning laws, land use plans, and BLM regulations, identifying any potential conflicts or necessary permits.</p><p>If adverse impacts are identified, UES will propose mitigation measures to minimize disruptions to existing land uses and promote harmonious integration of the project into the local landscape.</p><p>A detailed document presenting findings, analyses, maps, and recommendations related to the project's impact on land use. Geospatial datasets illustrating current land use patterns and projected changes, provided in standard formats compatible with BLM systems.</p>",
+    "LandUseCost": 8500
+  }
 }
+
 
 
 
