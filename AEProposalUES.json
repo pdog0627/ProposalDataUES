@@ -47,6 +47,10 @@
   "Socioeconomic Study": {
     "SocioStudySummary": "<p>UES will conduct a Socioeconomic Study. The study will evaluate both direct and indirect social and economic impacts on the local community within the project boundary. Data collection will align with guidelines from applicable state and federal standards.</p><p>Baseline socioeconomic conditions will be established by analyzing demographic data, employment statistics, income levels, and local economic activity. Surveys and stakeholder interviews will be conducted as necessary to gather qualitative insights. Potential impacts, including changes to employment, housing demand, public services, and community cohesion, will be assessed using both quantitative and qualitative methods.</p><p>Mitigation strategies will be proposed for identified adverse impacts, with a focus on enhancing local benefits, such as job creation and community investment. The socioeconomic study will also account for potential benefits like increased tax revenues or improved public services. Deliverables will include a detailed report outlining findings, analyses, and recommendations for minimizing negative impacts and maximizing positive outcomes.</p><p>Based on UES' experience with similar studies in the region, it is expected that impacts will be moderate, with opportunities for targeted mitigation to address community concerns effectively.</p>",
     "SocioStudyCost": 10000
+},
+    "Agency Coordination": {
+    "SocioStudySummary": "<p>As the EA develops, continued coordination with the reviewing agency is to be expected. UES will coordinate with the agency via email, phone calls, and meetings. UES will relay the results of these interactions to the client, and include them on those correspondences and meetings that require the client's attention. In general this coordination will be conducted by the project manager, with relevant staff brought in as needed for streamlined processing by all involved agencies.</p>",
+    "SocioStudyCost": 7000
 }
 
 
