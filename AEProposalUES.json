@@ -28,35 +28,7 @@
     "AirCost": 10000
   },
     "Class III Inventory": {
-    "Class3Summary": "<p>
-    UES will conduct a Class III intensive pedestrian survey of the project area. Fieldwork will follow the 
-    BLM Nevada’s Guidelines and Standards for Archaeological Inventory (6th edition, 2019) as this is 
-    well-understood and accepted by other agencies. UES archaeologists will walk the survey area in parallel 
-    transects spaced 30 meters apart. Newly encountered cultural resources will be identified and inventoried. 
-    Isolated objects, defined as single artifacts spaced more than 30 meters from each other, will be plotted using 
-    standard GPS and recorded on digital isolate forms. For newly recorded sites, the site boundaries will be plotted, 
-    a permanent datum will be established, and concentrations of artifacts and features will be photographed and plotted. 
-    Diagnostic artifacts will be given field numbers, measured, plotted, and photographed. The Class III Inventory 
-    will be a non-collection survey: site excavation or subsurface testing does not apply to the scope and budget of 
-    this project. Based on UES’ experience with similarly sized inventories in the vicinity.
-</p>
-<p>
-    When a site is located, it will be mapped using sub-meter GPS, fully recorded, the boundaries flagged, 
-    and a physical datum placed. An NRHP eligibility recommendation will be completed for each site. Detailed 
-    recording of each site will be accomplished using digital data collection to ensure quality and consistency 
-    of data. Digital data collection will expedite submittal of project deliverables.
-</p>
-<p>
-    UES cultural resources specialists will survey the project area for the presence of:
-</p>
-<ul>
-    <li>Prehistoric lithic artifacts (e.g., flaked stone tools and tool-making debris, groundstone, etc.)</li>
-    <li>Historic artifacts (e.g., metal, glass, ceramics)</li>
-    <li>Sediment discoloration (e.g., midden, hearth features)</li>
-    <li>Depressions and other features indicative of the former presence of structures or buildings (e.g., post holes, foundations)</li>
-    <li>Prehistoric ruins, petroglyphs, historic buildings, structures, and/or objects</li>
-</ul>
-",
+    "Class3Summary": "<p>UES will conduct a Class III intensive pedestrian survey of the project area. Fieldwork will follow the BLM Nevada’s Guidelines and Standards for Archaeological Inventory (6th edition, 2019) as this is well-understood and accepted by other agencies. UES archaeologists will walk the survey area in parallel transects spaced 30 meters apart. Newly encountered cultural resources will be identified and inventoried. Isolated objects, defined as single artifacts spaced more than 30 meters from each other, will be plotted using standard GPS and recorded on digital isolate forms. For newly recorded sites, the site boundaries will be plotted, a permanent datum will be established, and concentrations of artifacts and features will be photographed and plotted. Diagnostic artifacts will be given field numbers, measured, plotted, and photographed. The Class III Inventory will be a non-collection survey: site excavation or subsurface testing does not apply to the scope and budget of this project. Based on UES’ experience with similarly sized inventories in the vicinity.</p><p>When a site is located, it will be mapped using sub-meter GPS, fully recorded, the boundaries flagged, and a physical datum placed. An NRHP eligibility recommendation will be completed for each site. Detailed recording of each site will be accomplished using digital data collection to ensure quality and consistency of data. Digital data collection will expedite submittal of project deliverables.</p><p>UES cultural resources specialists will survey the project area for the presence of:</p><ul><li>Prehistoric lithic artifacts (e.g., flaked stone tools and tool-making debris, groundstone, etc.)</li><li>Historic artifacts (e.g., metal, glass, ceramics)</li><li>Sediment discoloration (e.g., midden, hearth features)</li><li>Depressions and other features indicative of the former presence of structures or buildings (e.g., post holes, foundations)</li><li>Prehistoric ruins, petroglyphs, historic buildings, structures, and/or objects</li></ul>",
     "Class3Cost": 10000
   }
 
