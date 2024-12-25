@@ -60,7 +60,14 @@
   "Land Use Study": {
     "LandUseSummary": "<p>UES will conduct a comprehensive Land Use Assessment for the project area. This assessment will adhere to the Bureau of Land Management's (BLM) Assessment, Inventory, and Monitoring (AIM) Strategy, which provides standardized methods for evaluating land conditions and trends.</p><p>UES will conduct a pedestrian survey, using 30 meter interval transects. All data will be collected using digital means, including GPS coordinates, existing land uses, the presence of agricultural activities, residential and commercial use, recreational areas, and natural habitats. Geolocated photographs will also be collected.</p><p>Collected data will be categorized according to standardized land use classifications, facilitating a clear understanding of the area's current utilization. The land use assessment will evaluate how the proposed project may alter existing land uses, considering factors such as changes in land cover, potential displacement of current activities, and compatibility with surrounding land uses.</p><p>The study will ensure that the proposed project aligns with local zoning laws, land use plans, and BLM regulations, identifying any potential conflicts or necessary permits.</p><p>If adverse impacts are identified, UES will propose mitigation measures to minimize disruptions to existing land uses and promote harmonious integration of the project into the local landscape.</p><p>A detailed document presenting findings, analyses, maps, and recommendations related to the project's impact on land use. Geospatial datasets illustrating current land use patterns and projected changes, provided in standard formats compatible with BLM systems.</p>",
     "LandUseCost": 8500
+  },
+  
+  "Aquatic Resources Screening Report": {
+    "ARSRSummary": "<p>An Aquatic Resources Screening Report is a technical memo that describes the lateral extent of aquatic features located within a project boundary.</p><p>UES will conduct a desktop review of publicly available data sources and aerial imagery. UES will also conduct a site visit to document current field conditions of the project area identified by the Client. Field data to be collected includes georeferenced photographs, ordinary high water mark (OHWM) measurements, and general site descriptions. Field data may be used for future project consultation, including the generation of permitting packages on behalf of the Client.</p><p>UES will prepare a draft screening report that will be submitted for the client to review. One round of client comments will be incorporated into the draft report, and a final report will be submitted to the client and incorporated into the EA.</p>",
+    "ARSRCost": 6000
   }
+}
+
 }
 
 
