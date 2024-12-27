@@ -13,62 +13,90 @@
   },
   "Cacti and Yucca": {
     "CactiYuccaSummary": "<p>Cacti and Yucca - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet lacus quis velit congue dapibus a a velit. Vestibulum interdum metus et felis egestas, nec pharetra lectus tempor. Fusce ac vehicula orci, eget gravida eros. Aenean nec dolor eget augue accumsan ultrices. Praesent sit amet magna in lacus volutpat dapibus.</p> <p>Quisque ut eros vitae arcu volutpat interdum. Integer tristique, nibh at efficitur tempus, neque lectus vulputate justo, in viverra ex nisl non orci. Aliquam erat volutpat. Phasellus malesuada, nunc in vehicula convallis, sem urna feugiat justo, at faucibus sapien nulla et lectus.</p> <p>Curabitur quis nisi ut libero convallis dictum. Fusce id lorem non libero bibendum convallis. Sed et ligula urna. Mauris dictum varius nunc non condimentum. Integer id neque non purus pellentesque eleifend. Vivamus tincidunt, nunc non sodales consectetur, ex lorem vulputate mi, a molestie urna odio nec magna.</p> <p>Donec bibendum semper elit, sed tempus sapien. Vestibulum tristique ante eget mauris fermentum, nec pharetra justo pharetra. Ut blandit nunc nec urna tempor suscipit. Suspendisse potenti. Mauris sit amet sapien non enim interdum fermentum. Integer volutpat eros magna, vitae tincidunt mi tempor in.</p> <p>Sed aliquet, sapien et fermentum feugiat, justo ipsum aliquet arcu, nec dapibus magna risus vitae mi. Suspendisse euismod dolor nec odio pellentesque, at laoreet mauris vehicula. Donec vel fermentum erat. Nullam scelerisque placerat erat, at laoreet enim venenatis vel. Etiam ut semper sem.</p> <p>In at libero nec velit pharetra cursus. Ut consequat nulla id velit dapibus, sed vulputate velit tincidunt. Aliquam erat volutpat. Sed a dictum ligula, vel venenatis tortor. Vivamus ac nibh ac tortor tincidunt tempus. Donec egestas vehicula ligula sed efficitur.</p> <p>Ut ultricies dui in nisl pretium fermentum. Proin consequat nisi non nisi mollis, id dictum sapien varius. Cras malesuada libero id urna consectetur, vitae accumsan nunc aliquam. Duis at dolor eget ipsum scelerisque feugiat sed a nisi. Integer vel viverra nisi.</p>",
-    "CactiYuccaCost": 2000
+    "CactiYuccaCost": 2000,
+    "CactiYuccaWorkdays": "Concurrent with EA",
+    "CactiYuccaDependents": "Notice to Proceed"
   },
   "Special Status Plant": {
 "SpecialPlantSummary": "<p>Special Status Plant - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet lacus quis velit congue dapibus a a velit. Vestibulum interdum metus et felis egestas, nec pharetra lectus tempor. Fusce ac vehicula orci, eget gravida eros. Aenean nec dolor eget augue accumsan ultrices. Praesent sit amet magna in lacus volutpat dapibus.</p> <p>Quisque ut eros vitae arcu volutpat interdum. Integer tristique, nibh at efficitur tempus, neque lectus vulputate justo, in viverra ex nisl non orci. Aliquam erat volutpat. Phasellus malesuada, nunc in vehicula convallis, sem urna feugiat justo, at faucibus sapien nulla et lectus.</p> <p>Curabitur quis nisi ut libero convallis dictum. Fusce id lorem non libero bibendum convallis. Sed et ligula urna. Mauris dictum varius nunc non condimentum. Integer id neque non purus pellentesque eleifend. Vivamus tincidunt, nunc non sodales consectetur, ex lorem vulputate mi, a molestie urna odio nec magna.</p> <p>Donec bibendum semper elit, sed tempus sapien. Vestibulum tristique ante eget mauris fermentum, nec pharetra justo pharetra. Ut blandit nunc nec urna tempor suscipit. Suspendisse potenti. Mauris sit amet sapien non enim interdum fermentum. Integer volutpat eros magna, vitae tincidunt mi tempor in.</p> <p>Sed aliquet, sapien et fermentum feugiat, justo ipsum aliquet arcu, nec dapibus magna risus vitae mi. Suspendisse euismod dolor nec odio pellentesque, at laoreet mauris vehicula. Donec vel fermentum erat. Nullam scelerisque placerat erat, at laoreet enim venenatis vel. Etiam ut semper sem.</p> <p>In at libero nec velit pharetra cursus. Ut consequat nulla id velit dapibus, sed vulputate velit tincidunt. Aliquam erat volutpat. Sed a dictum ligula, vel venenatis tortor. Vivamus ac nibh ac tortor tincidunt tempus. Donec egestas vehicula ligula sed efficitur.</p> <p>Ut ultricies dui in nisl pretium fermentum. Proin consequat nisi non nisi mollis, id dictum sapien varius. Cras malesuada libero id urna consectetur, vitae accumsan nunc aliquam. Duis at dolor eget ipsum scelerisque feugiat sed a nisi. Integer vel viverra nisi.</p>",
-    "SpecialPlantCost" : 2000
+    "SpecialPlantCost" : 2000,
+      "SpecialPlantWorkdays": "Concurrent with EA",
+    "SpecialPlantDependents": "Notice to Proceed"
   },
     "Traffic Study": {
     "TrafficSummary": "<p>UES will run a Federal Highway Administration (FHWA) McTrans Impact Model on the project site(s) and provide the Level of Service and Traffic Impact Technical Report to the AGENCY. UES will evaluate the area of significant impact for existing land uses, zoning, anticipated developments, site accessibility, traffic volumes and conditions, transit service, and other relevant conditions. A Traffic Projection and Traffic analysis will be included in the report. Compliance with local codes will be evaluated as well.  The Traffic Baseline Study will include an inventory of existing parking (if any), the perimeter of study area, and spillover. Data collection during field work will include marking routes, landmarks, hydrants, etc., area walks to account for maximum distance, peak demand, duration counts, turnover rates, and occupancy rates. UES will create a report of the analysis of all studies.",
-    "TrafficCost": 8000
+    "TrafficCost": 8000,
+    "TrafficWorkdays": "Concurrent with EA",
+    "TrafficDependents": "Notice to Proceed"
   },
     "Noise Study": {
     "NoiseSummary": "<p>UES will conduct an ambient noise survey in general accordance with the American National Standards Institute (ANSI) S12.18-1994, Procedures for Outdoor Measurement of Sound Pressure Level.  This will include collection of a 24-hour noise level measurement at the center of the proposed action, one 1-hour “daytime” noise level measurement and one 15-minute “nighttime” measurement at each of the corners of the subject property. This ambient noise survey will determine the baseline noise levels for comparison with the predicted construction and operation action levels.  Both the construction and operation action noise levels will be modeled and calculated in accordance with International Organization for Standardization (ISO) 9613-2, Acoustics – Attenuation of Sound During Propagation Outdoors. Part 2: General Method of Calculation. UES will prepare a baseline and desktop noise analysis to include local zoning and regulatory requirements, such as those of the areas immediately surrounding the selected sites.",
-    "NoiseCost": 10000
+    "NoiseCost": 10000,
+    "NoiseWorkdays": "Concurrent with EA",
+    "NoiseDependents": "Notice to Proceed"
   },
     "Air Quality": {
     "AirSummary": "<p>After a brief desktop review, air quality experts from UES will visit the site to determine baseline conditions and verify any air quality concerns from adjacent properties. Such concerns will be quantified if possible, or qualitatively described in detail if not. A report will be drafted summarizing baseline air quality conditions, estimated emissions from construction activities, and estimated emissions from the site post-construction. If the project area is within a currently in nonattainment, the report will address the stricter regulatory requirements designed to improve air quality. No sampling will be required for this task.",
-    "AirCost": 10000
+    "AirCost": 10000,
+    "AirWorkdays": "Concurrent with EA",
+    "AirDependents": "Notice to Proceed"
   },
     "Class III Inventory": {
     "Class3Summary": "<p>UES will conduct a Class III intensive pedestrian survey of the project area. Fieldwork will follow the BLM Nevada’s Guidelines and Standards for Archaeological Inventory (6th edition, 2019) as this is well-understood and accepted by other agencies. UES archaeologists will walk the survey area in parallel transects spaced 30 meters apart. Newly encountered cultural resources will be identified and inventoried. Isolated objects, defined as single artifacts spaced more than 30 meters from each other, will be plotted using standard GPS and recorded on digital isolate forms. For newly recorded sites, the site boundaries will be plotted, a permanent datum will be established, and concentrations of artifacts and features will be photographed and plotted. Diagnostic artifacts will be given field numbers, measured, plotted, and photographed. The Class III Inventory will be a non-collection survey: site excavation or subsurface testing does not apply to the scope and budget of this project. Based on UES’ experience with similarly sized inventories in the vicinity.</p><p>When a site is located, it will be mapped using sub-meter GPS, fully recorded, the boundaries flagged, and a physical datum placed. An NRHP eligibility recommendation will be completed for each site. Detailed recording of each site will be accomplished using digital data collection to ensure quality and consistency of data. Digital data collection will expedite submittal of project deliverables.</p><p>UES cultural resources specialists will survey the project area for the presence of:</p><ul><li>Prehistoric lithic artifacts (e.g., flaked stone tools and tool-making debris, groundstone, etc.)</li><li>Historic artifacts (e.g., metal, glass, ceramics)</li><li>Sediment discoloration (e.g., midden, hearth features)</li><li>Depressions and other features indicative of the former presence of structures or buildings (e.g., post holes, foundations)</li><li>Prehistoric ruins, petroglyphs, historic buildings, structures, and/or objects</li></ul>",
-    "Class3Cost": 10000
+    "Class3Cost": 10000,
+    "Class3Workdays": "Concurrent with EA",
+    "Class3Dependents": "Notice to Proceed"
   },
     "Class III Inventory Report": {
     "Class3RSummary": "<p>When the fieldwork has been completed, all recorded data will be post-processed using ArcGIS and the results of the investigation will be prepared for submittal to the client. IMACS site forms will be completed in full, undergo thorough internal QA/QC review, and be submitted to the Nevada Cultural Resources Information System (NVCRIS), the repository for archaeological site data in Nevada. Within 21 days of completing the Class III inventory, UES will transmit the report to the client. This report will summarize the findings of the Class III and provide eligibility recommendations for newly encountered sites and suggest next steps, if necessary. Confidential locational data of archaeological resources are protected by Nevada law and cannot be disseminated beyond qualified archaeological professionals. Therefore, if any archaeological resources are identified that UES determines to have significance or whose significance cannot be evaluated without further testing, UES will provide a map and shapefiles with buffers placed around sensitive areas to aid in future site planning and design.",
-    "Class3RCost": 0
+    "Class3RCost": 0,
+    "Class3RWorkdays": "Concurrent with EA",
+    "Class3RDependents": "Notice to Proceed"
   },
       "Class I Inventory (Background Research)": {
     "Class1Summary": "<p>To complete the desktop review, UES cultural resources staff will complete a Class I inventory for the project area. The purpose of a Class I is to synthesize existing information regarding the precontact, historic, ethnohistoric, and recent land use patterns within the project area. To accomplish this task, UES will consult the Nevada Cultural Resources Information System (NVCRIS) database in addition to publicly available historic information. At a minimum, UES will review:</p><ul><li>Previously recorded archaeological site forms</li><li>Previously conducted archaeological and architectural reports</li><li>General Land Office (GLO) Maps</li><li>NRHP and National Historic Landmarks (NHL) listings and nominations</li><li>State Register of Historic Places (SHRP) listings</li><li>NDOT county highway maps</li><li>Historic USGS topographic quadrangle maps</li><li>Historic aerial photographs</li><li>Satellite imagery</li></ul><p>UES will digitize the findings of the background research and prepare up to four (4) project maps, including a project vicinity map, a project location map, and a results map depicting previously identified inventories and cultural resources (sites, structures, and districts).</p><p>UES will then initiate tribal consultation with lead agency approval and coordination and draft initiation letters seeking expertise, feedback, and input from affiliated tribes and tribal stakeholders.</p>",
-    "Class1Cost": 3000
+    "Class1Cost": 3000,
+    "Class1Workdays": "Concurrent with EA",
+    "Class1Dependents": "Notice to Proceed"
   },
       "Agency Review": {
     "AgencyReviewSummary": "<p>Upon completion of the Class III Inventory, UES will prepare a report to the reviewing agency and SHPO that documents the results of the inventory, provides a brief cultural history of the project area, and presents the results of the Class I background search (previous research summary), eligibility recommendations for all newly recorded archaeological sites, and recommendations for future archaeological work, if any.</p>",
-    "AgencyReviewCost": 0
+    "AgencyReviewCost": 0,
+    "AgencyReviewWorkdays": "Concurrent with EA",
+    "AgencyReviewDependents": "Notice to Proceed"
   },
   
   "Socioeconomic Study": {
     "SocioStudySummary": "<p>UES will conduct a Socioeconomic Study. The study will evaluate both direct and indirect social and economic impacts on the local community within the project boundary. Data collection will align with guidelines from applicable state and federal standards.</p><p>Baseline socioeconomic conditions will be established by analyzing demographic data, employment statistics, income levels, and local economic activity. Surveys and stakeholder interviews will be conducted as necessary to gather qualitative insights. Potential impacts, including changes to employment, housing demand, public services, and community cohesion, will be assessed using both quantitative and qualitative methods.</p><p>Mitigation strategies will be proposed for identified adverse impacts, with a focus on enhancing local benefits, such as job creation and community investment. The socioeconomic study will also account for potential benefits like increased tax revenues or improved public services. Deliverables will include a detailed report outlining findings, analyses, and recommendations for minimizing negative impacts and maximizing positive outcomes.</p><p>Based on UES' experience with similar studies in the region, it is expected that impacts will be moderate, with opportunities for targeted mitigation to address community concerns effectively.</p>",
-    "SocioStudyCost": 10000
+    "SocioStudyCost": 10000,
+    "SocioStudyWorkdays": "Concurrent with EA",
+    "SocioStudyDependents": "Notice to Proceed"
 },
     "Agency Coordination": {
     "AgencyCSummary": "<p>As the EA develops, continued coordination with the reviewing agency is to be expected. UES will coordinate with the agency via email, phone calls, and meetings. UES will relay the results of these interactions to the client, and include them on those correspondences and meetings that require the client's attention. In general this coordination will be conducted by the project manager, with relevant staff brought in as needed for streamlined processing by all involved agencies.</p>",
-    "AgencyCCost": 7000
+    "AgencyCCost": 7000,
+    "AgencyWorkdays": "Concurrent with EA",
+    "AgencyDependents": "Notice to Proceed"
 },
     "SHPO Review and Response": {
     "SHPOSummary": "<p>UES will submit the results of its Class I and Class III studies to the SHPO. Once SHPO has reviewed and responded with comments, UES will incorporate those comments into its cultural resource reports in a final draft.</p>",
-    "SHPOCost": 0
+    "SHPOCost": 0,
+    "SHPOWorkdays": "Concurrent with EA",
+    "SHPODependents": "Notice to Proceed"
 },
   
   "Land Use Study": {
     "LandUseSummary": "<p>UES will conduct a comprehensive Land Use Assessment for the project area. This assessment will adhere to the Bureau of Land Management's (BLM) Assessment, Inventory, and Monitoring (AIM) Strategy, which provides standardized methods for evaluating land conditions and trends.</p><p>UES will conduct a pedestrian survey, using 30 meter interval transects. All data will be collected using digital means, including GPS coordinates, existing land uses, the presence of agricultural activities, residential and commercial use, recreational areas, and natural habitats. Geolocated photographs will also be collected.</p><p>Collected data will be categorized according to standardized land use classifications, facilitating a clear understanding of the area's current utilization. The land use assessment will evaluate how the proposed project may alter existing land uses, considering factors such as changes in land cover, potential displacement of current activities, and compatibility with surrounding land uses.</p><p>The study will ensure that the proposed project aligns with local zoning laws, land use plans, and BLM regulations, identifying any potential conflicts or necessary permits.</p><p>If adverse impacts are identified, UES will propose mitigation measures to minimize disruptions to existing land uses and promote harmonious integration of the project into the local landscape.</p><p>A detailed document presenting findings, analyses, maps, and recommendations related to the project's impact on land use. Geospatial datasets illustrating current land use patterns and projected changes, provided in standard formats compatible with BLM systems.</p>",
-    "LandUseCost": 10000
+    "LandUseCost": 10000,
+    "LandUseWorkdays": "Concurrent with EA",
+    "LandUseDependents": "Notice to Proceed"
   },
   
   "Aquatic Resources Screening Report": {
     "ARSRSummary": "<p>An Aquatic Resources Screening Report is a technical memo that describes the lateral extent of aquatic features located within a project boundary.</p><p>UES will conduct a desktop review of publicly available data sources and aerial imagery. UES will also conduct a site visit to document current field conditions of the project area identified by the Client. Field data to be collected includes georeferenced photographs, ordinary high water mark (OHWM) measurements, and general site descriptions. Field data may be used for future project consultation, including the generation of permitting packages on behalf of the Client.</p><p>UES will prepare a draft screening report that will be submitted for the client to review. One round of client comments will be incorporated into the draft report, and a final report will be submitted to the client and incorporated into the EA.</p>",
-    "ARSRCost": 9000
+    "ARSRCost": 9000,
+    "ARSRWorkdays": "Concurrent with EA",
+    "ARSRDependents": "Notice to Proceed"
   },
     "Biological Assessment": {
     "BASummary": "<p>UES will prepare a Biological Assessment that documents the baseline of the project that includes a literature review and the results of the field investigations including vegetation types, and narrative habitat discussions. This document will utilize existing baseline animal species data of the action area that has been previously documented. Additionally, the BA will analyze potential impacts and recommend protections measures. The Client will receive a draft of the report and UES will address one round of comments/revisions as requested by the Client, one round of comments/revisions as requested by the reviewing agency, and comments/revisions as requested by USFWS. The report will then be finalized and provided electronically to USFWS and the reviewing agency concurrently for preparation of the final Biological Opinion (should one be required for the project).</p>",
