@@ -13,7 +13,7 @@
   },
   "Cacti and Yucca": {
     "CactiYuccaSummary": "<p>The proposed alignments traverse lands under the jurisdiction of the US Bureau of Land Management(BLM), which has determined that cacti and yucca need to be accounted for within the project right ofway to determine correct mitigations for those plants. Plants in permanent disturbance areas can besold to the public or paid for with a fee, and plants in the temporary disturbance area will betransplanted to a nursery site within the alignment and then, when construction is completed, relocatedback to further restoration efforts.</p><p>UES will survey the project alignment and mark each cactus and yucca identified. Each cactus or yuccawill have a digital datasheet created that records its precise location, species, height estimation, planthealth condition, and if multiple plants are in the same geographic area. Cacti and Yucca will also beflagged to mark progress and aid in later identification. Once the survey is completed, the data will beoverlaid in GIS on the project alignment to determine the number of each species within the temporaryand permanent disturbance areas. A summary of the survey and these findings will be submitted tothe client, along with a Shapefile containing all collected data. Having actual plant counts will help BLM and the client determine the applicable mitigation and fees (e.g. plant sale, salvage, no action, etc.).</p>",
-    "CactiYuccaCost": $25000,
+    "CactiYuccaCost": 25000,
     "CactiYuccaWorkdays": "Concurrent with EA",
     "CactiYuccaDependents": "Notice to Proceed"
   },
