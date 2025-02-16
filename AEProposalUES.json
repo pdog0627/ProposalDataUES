@@ -66,8 +66,8 @@
     "Class1Workdays": "Concurrent with EA",
     "Class1Dependents": "Notice to Proceed"
   },
-      "Agency Review": {
-    "AgencyReviewSummary": "<p>Upon completion of the Class III Inventory, UES will prepare a report to the reviewing agency and SHPO that documents the results of the inventory, provides a brief cultural history of the project area, and presents the results of the Class I background search (previous research summary), eligibility recommendations for all newly recorded archaeological sites, and recommendations for future archaeological work, if any.</p>",
+      "Agency/SHPO Review and Response": {
+    "AgencyReviewSummary": "<p>Upon completion of the Class III Inventory, UES will prepare a report to the reviewing agency and SHPO that documents the results, provides a brief cultural history of the project area, and presents the results of the Class I background search (previous research summary), eligibility recommendations for all newly recorded archaeological sites, and recommendations for future archaeological work, if any. Once SHPO and the lead agency have reviewed and responded with comments, UES will incorporate those comments into its cultural resource reports in a final draft.</p>",
     "AgencyReviewCost": 0,
     "AgencyReviewWorkdays": "Concurrent with EA",
     "AgencyReviewDependents": "Notice to Proceed"
