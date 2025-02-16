@@ -43,7 +43,7 @@
     "NoiseDependents": "Notice to Proceed"
   },
     "Air Quality": {
-    "AirSummary": "<p>After a brief desktop review, air quality experts from UES will visit the site to determine baseline conditions and verify any air quality concerns from adjacent properties. Such concerns will be quantified if possible, or qualitatively described in detail if not. A report will be drafted summarizing baseline air quality conditions, estimated emissions from construction activities, and estimated emissions from the site post-construction. If the project area is within a currently in nonattainment, the report will address the stricter regulatory requirements designed to improve air quality. No sampling will be required for this task.",
+    "AirSummary": "<p>After a brief desktop review, air quality experts from UES will visit the site to determine baseline conditions and verify any air quality concerns from adjacent properties. Such concerns will be quantified if possible, or qualitatively described in detail if not. A report will be drafted summarizing baseline air quality conditions, estimated emissions from construction activities, and estimated emissions from the site post-construction. If the project area is within a region currently in nonattainment, the report will address the stricter regulatory requirements designed to improve air quality. No sampling will be required for this task.",
     "AirCost": 10000,
     "AirWorkdays": "Concurrent with EA",
     "AirDependents": "Notice to Proceed"
